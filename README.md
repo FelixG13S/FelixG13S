@@ -5,3 +5,6 @@ I'm a third-year M.Sc. student in Information Technology (IT) at Linköping Univ
 
 ## Projects
  - <a href="https://github.com/FelixG13S/Security-analysis-in-LAN">Security analysis in LAN</a>
+
+## Academic Reports
+These are selected technical reports written during my university studies.
