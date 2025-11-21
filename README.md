@@ -1,5 +1,5 @@
 # Hey, I'm Felix
-<a href="https://www.linkedin.com/in/felix-geivald-044a6817a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/felix-geivald-044a6817a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a third-year M.Sc. student in Information Technology (IT) at Linköping University.
 
