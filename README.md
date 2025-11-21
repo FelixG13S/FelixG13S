@@ -8,3 +8,4 @@ I'm a third-year M.Sc. student in Information Technology (IT) at Linköping Univ
 
 ## Academic Reports
 These are selected technical reports written during my university studies.
+- Felix Geivald, Johan Lundbäck, **E2E Delay in Livestreaming: Viewer's Perspective and QoS Metrics over 4G LTE and 5G NSA/SA Networks**, Oct. 2025. ([pdf](reports/TDDE48_project_final_report_1%20(1).pdf))
