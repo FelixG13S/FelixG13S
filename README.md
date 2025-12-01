@@ -4,7 +4,7 @@
 I'm a third-year M.Sc. student in Information Technology (IT) at Linköping University.
 
 ## Projects
- - [LAN Security Testing](projects/Security analysis in LAN.pdf)
+ - [LAN Security Testing](/projects/Security%20analysis%20in%20LAN.pdf)
 
 ## Academic Reports
 - Felix Geivald, Johan Lundbäck, **E2E Delay in Livestreaming: Viewer's Perspective and QoS Metrics over 4G LTE and 5G NSA/SA Networks**, Oct. 2025. ([pdf](reports/TDDE48_project_final_report_1%20(1).pdf))
