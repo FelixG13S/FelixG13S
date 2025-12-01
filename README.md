@@ -4,7 +4,6 @@
 I'm a third-year M.Sc. student in Information Technology (IT) at Linköping University.
 
 ## Projects
- - [LAN Security Testing](/projects/LAN%20Security%20Testing.pdf)
  - <a href="https://github.com/FelixG13S/FelixG13S/raw/main/projects/LAN%20Security%20Testing.pdf">LAN Security Testing
 
 ## Academic Reports
